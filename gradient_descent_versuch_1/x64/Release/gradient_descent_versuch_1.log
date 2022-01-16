@@ -1,0 +1,10 @@
+﻿  functions.cpp
+E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\gradient_descent_versuch_1\functions.cpp(13,28): warning C4244: 'initializing': conversion from 'Eigen::Index' to 'int', possible loss of data
+E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\gradient_descent_versuch_1\functions.cpp(60,12): warning C4244: 'initializing': conversion from 'Eigen::Index' to 'int', possible loss of data
+E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\gradient_descent_versuch_1\functions.cpp(60,39): warning C4244: 'initializing': conversion from 'Eigen::Index' to 'int', possible loss of data
+  Generating code
+  1 of 2146 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  gradient_descent_versuch_1.vcxproj -> E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\gradient_descent_versuch_1\x64\Release\gradient_descent_versuch_1.exe
